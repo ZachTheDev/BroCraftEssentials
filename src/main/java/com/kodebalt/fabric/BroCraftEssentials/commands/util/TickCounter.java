@@ -1,4 +1,4 @@
-package me.simon.commands.util;
+package com.kodebalt.fabric.BroCraftEssentials.commands.util;
 
 import net.minecraft.server.MinecraftServer;
 

@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.kodebalt.fabric.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "com.kodebalt.fabric.BroCraftEssentials.mixins.LiteralTextMixin",
+    "com.kodebalt.fabric.BroCraftEssentials.mixins.TranslatableTextMixin",
+    "com.kodebalt.fabric.BroCraftEssentials.mixins.PlayerManagerMixin",
+    "com.kodebalt.fabric.BroCraftEssentials.mixins.PlayerListMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

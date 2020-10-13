@@ -1,7 +1,7 @@
-package me.simon.mixins;
+package com.kodebalt.fabric.BroCraftEssentials.mixins;
 
-import me.simon.commands.util.TextFormatter;
-import me.simon.config.Config;
+import com.kodebalt.fabric.BroCraftEssentials.commands.util.TextFormatter;
+import com.kodebalt.fabric.BroCraftEssentials.config.Config;
 import net.minecraft.text.LiteralText;
 import org.spongepowered.asm.mixin.*;
 import org.spongepowered.asm.mixin.injection.At;

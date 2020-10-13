@@ -1,7 +1,7 @@
-package me.simon.mixins;
+package com.kodebalt.fabric.BroCraftEssentials.mixins;
 
-import me.simon.commands.util.TextFormatter;
-import me.simon.config.Config;
+import com.kodebalt.fabric.BroCraftEssentials.commands.util.TextFormatter;
+import com.kodebalt.fabric.BroCraftEssentials.config.Config;
 import net.minecraft.network.ClientConnection;
 import net.minecraft.network.Packet;
 import net.minecraft.network.packet.s2c.play.PlayerListHeaderS2CPacket;

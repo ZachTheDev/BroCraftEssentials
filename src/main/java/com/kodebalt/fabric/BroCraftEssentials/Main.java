@@ -1,10 +1,7 @@
-package me.simon;
+package com.kodebalt.fabric.BroCraftEssentials;
 
-import me.simon.commands.*;
-
-import me.simon.commands.util.TextFormatter;
-import me.simon.commands.util.TablistVariables;
-import me.simon.config.Config;
+import com.kodebalt.fabric.BroCraftEssentials.commands.util.TablistVariables;
+import com.kodebalt.fabric.BroCraftEssentials.config.Config;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.command.v1.CommandRegistrationCallback;
 import net.fabricmc.fabric.api.event.server.ServerTickCallback;

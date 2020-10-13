@@ -1,4 +1,4 @@
-package me.simon.mixins;
+package com.kodebalt.fabric.BroCraftEssentials.mixins;
 
 import net.minecraft.network.Packet;
 import net.minecraft.network.listener.ClientPlayPacketListener;

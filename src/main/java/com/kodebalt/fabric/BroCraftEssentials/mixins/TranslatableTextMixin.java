@@ -1,7 +1,6 @@
-package me.simon.mixins;
+package com.kodebalt.fabric.BroCraftEssentials.mixins;
 
-import me.simon.Main;
-import me.simon.config.Config;
+import com.kodebalt.fabric.BroCraftEssentials.config.Config;
 import net.minecraft.text.LiteralText;
 import net.minecraft.text.Text;
 import net.minecraft.text.TranslatableText;

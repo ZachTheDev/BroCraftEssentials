@@ -1,4 +1,4 @@
-package me.simon.commands.util;
+package com.kodebalt.fabric.BroCraftEssentials.commands.util;
 
 public class TextFormatter {
     public static TextFormatter INSTANCE = new TextFormatter();

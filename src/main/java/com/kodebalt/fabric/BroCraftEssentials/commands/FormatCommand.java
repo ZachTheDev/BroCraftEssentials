@@ -1,10 +1,9 @@
-package me.simon.commands;
+package com.kodebalt.fabric.BroCraftEssentials.commands;
 
+import com.kodebalt.fabric.BroCraftEssentials.commands.util.SuggestionsProvider;
 import com.mojang.brigadier.CommandDispatcher;
 import com.mojang.brigadier.context.CommandContext;
 import com.mojang.brigadier.exceptions.CommandSyntaxException;
-import me.simon.Main;
-import me.simon.commands.util.SuggestionsProvider;
 import me.simon.config.Config;
 import net.minecraft.item.ItemStack;
 import net.minecraft.network.packet.s2c.play.PlayerListHeaderS2CPacket;

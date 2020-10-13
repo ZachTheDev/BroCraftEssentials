@@ -1,4 +1,4 @@
-package me.simon.config;
+package com.kodebalt.fabric.BroCraftEssentials.config;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
